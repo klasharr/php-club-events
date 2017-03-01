@@ -1,4 +1,4 @@
-# php-club-events
+# php-sailing-club-events
 A small web app to display filterable sailing events from a CSV file and provide an API to access the data. See it live here:
 
 [http://prog.swanagesailingclub.org.uk/importer.php](http://prog.swanagesailingclub.org.uk/importer.php)
